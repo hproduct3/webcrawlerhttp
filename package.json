@@ -19,5 +19,8 @@
   "homepage": "https://github.com/hproduct3/webcrawlerhttp#readme",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "20.0.3"
   }
 }
